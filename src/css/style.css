@@ -1,0 +1,10 @@
+.text-area{
+    -fx-control-inner-background: #753f94;
+    -fx-font-style: italic;
+    -fx-font-weight: bold;
+}
+.text-field{
+    -fx-control-inner-background: #c49fd4;
+    -fx-font-style: italic;
+    -fx-font-weight: bold;
+}
